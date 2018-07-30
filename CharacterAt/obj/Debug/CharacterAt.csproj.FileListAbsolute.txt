@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\Mock\code\CharacterAt\bin\Debug\CharacterAt.exe.config
+C:\Users\user\Downloads\Mock\code\CharacterAt\bin\Debug\CharacterAt.exe
+C:\Users\user\Downloads\Mock\code\CharacterAt\bin\Debug\CharacterAt.pdb
+C:\Users\user\Downloads\Mock\code\CharacterAt\obj\Debug\CharacterAt.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Mock\code\CharacterAt\obj\Debug\CharacterAt.exe
+C:\Users\user\Downloads\Mock\code\CharacterAt\obj\Debug\CharacterAt.pdb
